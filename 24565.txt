@@ -1,0 +1,11 @@
+[Adblock Plus 2.0]
+! Title: onlyforme
+! Homepage: https://list-kr.github.io
+! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
+! Expires: 1 day
+! Version: 20200224
+
+! Workaround for BlockAdBlock
+
+##.desktop-top.ltr
+##top
